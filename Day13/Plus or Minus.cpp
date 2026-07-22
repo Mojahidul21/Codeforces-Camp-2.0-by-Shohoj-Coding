@@ -1,6 +1,6 @@
 // Title: Plus or Minus
 // Problem: https://codeforces.com/problemset/problem/1807/A
-// Title: https://codeforces.com/contest/1807/submission/380027712
+// Solution: https://codeforces.com/contest/1807/submission/380027712
 
 #include<bits/stdc++.h>
 
