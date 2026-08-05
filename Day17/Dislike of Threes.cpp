@@ -1,5 +1,5 @@
 // Title:  Dislike of Threes
-// Problem: Dislike of Threes
+// Problem: https://codeforces.com/contest/1560/problem/A
 // Solution: https://codeforces.com/contest/1560/submission/385233716
 
 #include<bits/stdc++.h>
